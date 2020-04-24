@@ -1,0 +1,4 @@
+Arquitectura:
+	- SMACSS
+	- OOCSS
+	- ITCSS

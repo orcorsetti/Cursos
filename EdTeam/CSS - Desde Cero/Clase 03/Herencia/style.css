@@ -1,0 +1,29 @@
+span.sinHerencia {
+    font-size: .5em;
+}
+
+p.herencia {
+    color: red;
+    font-weight: bolder;
+}
+
+/* Initial Inherit */
+p.inherit {
+    color: indigo;
+}
+
+a.inherit {
+    color: inherit;
+}
+
+ul {
+    color: red;
+}
+
+li {
+    color: initial;
+}
+
+.last {
+    color: inherit;
+}

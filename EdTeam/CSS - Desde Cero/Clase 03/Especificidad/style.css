@@ -1,0 +1,16 @@
+#main .post p {
+    color: red;
+}
+
+p {
+    color: green;
+    font-weight: bolder;
+}
+
+div#main .post p {
+    color: blue;
+}
+
+body div#main .post p {
+    color: indigo;
+}

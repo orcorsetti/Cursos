@@ -1,0 +1,43 @@
+h1.block {
+    background: springgreen;
+    height: 100px;
+    width: 200px;
+}
+
+h1.inline {
+    /* Al ser inline el ancho y alto dejan de tener efecto */
+    background: springgreen;
+    height: 100px;
+    width: 200px;
+    display: inline;
+}
+
+span {
+    /* No cambia el alto o ancho porque es un elemento de linea */
+    background: tomato;
+    height: 200px;
+    width: 200px;
+    font-style: normal;
+}
+
+span.block {
+    display: block;
+    height: 30px;
+    width:100px;
+}
+
+p.inline {
+    display: inline;
+    background: aquamarine;
+}
+
+p.block {
+    background: aquamarine;
+}
+
+span.inline-block {
+    /* Inline-block son elementos de lineas con las propiedades de un block */
+    display: inline-block;
+    height: 40px;
+    width:130px;
+}
