@@ -44,3 +44,28 @@ for (let letra of array) {
     console.log(letra)
 }
 
+array.forEach( (e, i) => {
+    console.log(`Elemento: ${e}`)
+    console.log(`Indice ${i}`)
+})
+
+// Some y Every
+
+console.log(array.some( e => e==='d'))
+console.log(array.some(e => e==='b'))
+
+let nombres = ['Ornela', 'Mariano', 'Antonella', 'Carla', 'Alan', 'Florencia']
+
+console.log(nombres.every(e => e.includes('o')))
+console.log(nombres.every(e => e.includes('a')))
+
+//Map
+let numeros = [0,1,2,3,4,5,6,7,8,9]
+
+console.log(numeros.map(e => e * e))
+
+//Filter
+console.log(numeros.filter(e => e > 3))
+
+//Reduce
+console.log(numeros.reduce((a,b)=> a + b))
