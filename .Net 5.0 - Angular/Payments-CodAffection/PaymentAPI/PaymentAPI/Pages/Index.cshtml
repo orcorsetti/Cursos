@@ -1,10 +1,16 @@
-﻿@page
+﻿@* Razor Sintax - Con el arroba va el @ (Para single line) o @{} (Para MultiLine) *@
+@page
+@* Aca indica el Page Model - Se puede incorporar testing,  *@
 @model IndexModel
 @{
+    //View Data reemplaza la data visible en Header o Footer por ejemplo (Pagina _ViewImports)
     ViewData["Title"] = "Home page";
 }
 
+@* HTML *@
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Welcome @Model.FirstName</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+
+

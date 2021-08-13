@@ -144,3 +144,13 @@ D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\
 D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\PaymentAPI.RazorComponent.input.cache
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\RazorDeclaration\Pages\Test\Component.razor.g.cs
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\PaymentAPI.RazorComponent.output.cache
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\RazorDeclaration\PaymentAPI.dll
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\Razor\Pages\Test\Component.razor.g.cs
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\Razor\Pages\Forms\Create.cshtml.g.cs
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\Razor\Pages\Forms\Delete.cshtml.g.cs
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\Razor\Pages\Forms\Details.cshtml.g.cs
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\Razor\Pages\Forms\Edit.cshtml.g.cs
+D:\GitHub\Cursos\.Net 5.0 - Angular\Payments-CodAffection\PaymentAPI\PaymentAPI\obj\Debug\net5.0\Razor\Pages\Forms\Index.cshtml.g.cs

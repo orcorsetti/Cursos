@@ -61,7 +61,8 @@ namespace PaymentAPI.Controllers
             {
                 if (!PaymentDetailExists(id))
                 {
-                    return NotFound();
+                    var error = "No se Encontro el ID Buscado";
+                    return NotFound(error);
                 }
                 else
                 {
