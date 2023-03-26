@@ -23,4 +23,3 @@ numpy_arr = np.array([x for x in range (1,13)])
 print(numpy_arr.reshape(2,2,3))
 
 print(numpy_arr.reshape(2,2,-1))
-
